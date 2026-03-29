@@ -2,11 +2,11 @@ HEAD
 # predictive-maintenance-system
 AI-powered system for predicting machine failures using temperature, vibration, and other parameters with real-time monitoring and decision support.
 
-# 🔧 Predictive Maintenance System
+#  Predictive Maintenance System
 
 This project is an AI-based predictive maintenance system that monitors machine health and predicts failures before they occur.
 
-## 🚀 Features
+##  Features
 - Machine failure prediction using ML
 - Real-time dashboard (Streamlit)
 - Health score and alerts
@@ -14,13 +14,13 @@ This project is an AI-based predictive maintenance system that monitors machine 
 - Cost-saving estimation
 - Trend analysis
 
-## 🧠 Tech Stack
+##  Tech Stack
 - Python
 - Streamlit
 - Scikit-learn
 - Pandas / NumPy
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 pip install pandas scikit-learn streamlit
